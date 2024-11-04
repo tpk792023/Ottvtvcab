@@ -23,9 +23,11 @@ https://live2onsport.vtvcab.vn/onplus/BTV5/manifest.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🌼| VTVCAP 🌼" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsportcongmoivuong1.jpg",ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://shopvophu.com/keyvophucongk.php?id=vtvcapbtv5
+#KODIPROP:inputstream.adaptive.license_key=https://shopvophu.com/keyvophucongk.php?id=vtvcaponsport
 https://live2onsport.vtvcab.vn/onplus/HAY_TV/manifest.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="📺𝐕𝐓𝐕📺 " tvg-logo="https://i.imgur.com/Q6PBnom.png",VTV1 HD
-#KODIPROP:inputstream.adaptive.license_key=https://shopvophu.com/keyvophucongk.php?id=vtvcapbtv5
+#EXTVLCOPT:http-user-agent=Mozilla
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://shopvophu.com/keyvophucongk.php?id=vtvcapvtv1
 https://live2onsport.vtvcab.vn/onplus/VTV9_HD/manifest.mpd
