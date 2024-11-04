@@ -25,3 +25,9 @@ https://live2onsport.vtvcab.vn/onplus/BTV5/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://shopvophu.com/keyvophucongk.php?id=vtvcapbtv5
 https://live2onsport.vtvcab.vn/onplus/HAY_TV/manifest.mpd
+
+#EXTINF:-1 group-title="🌼| VTVCAP 🌼" group-logo=" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/BTV5vuong3.jpg",BTV5 HD ACTION
+#EXTVLCOPT:http-user-agent=Mozilla
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://shopvophu.com/keyvophucongk.php?id=vtvcapbtv5
+https://live2onsport.vtvcab.vn/onplus/vtv1hd/manifest.mpd
