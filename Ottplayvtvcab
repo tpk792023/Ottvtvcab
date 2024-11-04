@@ -30,4 +30,10 @@ https://live2onsport.vtvcab.vn/onplus/HAY_TV/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://shopvophu.com/keyvophucongk.php?id=vtvcapvtv1
-https://live2onsport.vtvcab.vn/onplus/VTV9_HD/manifest.mpd
+https://live2onsport.vtvcab.vn/onplus/VTV1_HD/manifest.mpd
+
+##EXTINF:-1 tvg-id="ksport2hd" group-title="📺𝐕𝐓𝐕📺 " tvg-logo="https://i.imgur.com/Q6PBnom.png",VTV1 HD
+#EXTVLCOPT:http-user-agent=Mozilla
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://shopvophu.com/keyvophucongk.php?id=vtvcapvtv8
+https://live2onsport.vtvcab.vn/onplus/VTV8_HD/manifest.mpd
